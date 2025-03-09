@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+build/
+dist/
+test.py
+
+# 个人配置文件（避免上传个人敏感信息）
+campus_config.json
+
+# 编译文件
+*.exe
+*.spec
+网络.ico
+
+
+# IDE 相关
+.idea/
+
+# 开发相关
+raw_txt/
+
+
