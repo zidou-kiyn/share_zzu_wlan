@@ -27,7 +27,7 @@ Share ZZU WLAN 来了！这是一款专为郑州大学学子打造的移动校�
 
 1. 克隆本仓库或下载ZIP包到本地
    ```bash
-   git clone https://github.com/your-username/share_zzu_wlan.git
+   git clone https://github.com/zidou-kiyn/share_zzu_wlan.git
    ```
 
 2. 配置你的账号信息
